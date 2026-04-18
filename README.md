@@ -63,8 +63,7 @@ CampusCare+ is a privacy-first platform that allows students to report campus is
 
 ## 🔗 Links
 - 💻 GitHub: https://github.com/P-Arpita0205/CampusCarePlus  
-- 🌐 Live Demo: *(Add link)*  
-- 🎥 Demo Video: *(Add link)*  
+- 💻 LinkedIn: www.linkedin.com/in/p-arpita-681732377 
 
 ---
 
